@@ -1,3 +1,3 @@
-# vue-f7fdgp
+# vue3-gishome
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vue-f7fdgp)
+[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vue3-gishome)
